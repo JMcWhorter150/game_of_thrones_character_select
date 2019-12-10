@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    width: 100%;
+}
+
+.js-category {
+    border: black;
+    background-color: mediumslateblue;
+}
+
+.js-masterlist {
+    border: black;
+    background-color: mediumspringgreen;
+}
+
+.js-detail {
+    border: black;
+    background-color: palevioletred;
+}
